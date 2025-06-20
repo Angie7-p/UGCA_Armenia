@@ -9,3 +9,6 @@ print("El resultado de la resta es: ", resta)
 print("El resultado de la multiplicación es: ", multiplicación)
 print("El resultado de la división es: ", división)
 
+print("El resultado de la división es: ", división)
+
+
